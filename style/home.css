@@ -1,0 +1,29 @@
+.primary{
+    background-color: #891180;
+}
+
+.text-color{
+    color: #FFF6F6;
+}
+a {
+    background-color: transparent;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  a:hover {
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .image{
+    
+    background-image: url("../Images/car-removebg-preview.jpg");
+    background-color: #EEA1EB; 
+    margin-top: 0;
+    
+  }
+  .filter{
+    backdrop-filter: blur(8px) saturate(0.5) ;
+  }
+
